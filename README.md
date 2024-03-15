@@ -9,7 +9,7 @@
         <a
           href="Tatianegoliveir/Tatianegoliveir"
           class="no-underline Link--primary"
-        >tatianegoliveira</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<spanclass="color-fg-muted">.md</span></div>
+        <span class="color-fg-muted d-inline-block" style="padding:0px 2px;"></span><spanclass="color-fg-muted">.md</span></div>
 
 
   </p><p dir="auto">Hello! Welcome to my Github profile. </p>
