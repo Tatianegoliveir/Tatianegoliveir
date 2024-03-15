@@ -15,7 +15,7 @@
   </p><p dir="auto">Hello! Welcome to my Github profile. </p>
 I'm Tatiane Oliveira, Front End apprentice from Minas Gerais, Brasil.</p><ul dir="auto">
 <li>💡  I like to explore new trends and learn new technologies.</li>
-<li>🌱 I'm currently learning more about ...............</li>
+<li>🌱 I'm currently learning more about Django,TypeScript & React.</li>
 <li>❤ Tech & Coding</li>
 </ul>
 
