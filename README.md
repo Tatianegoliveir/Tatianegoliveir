@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, Bem-vindos! ✨</h1>
 
 <p align="center">
-  Sou Tatiane Oliveira, atuando com testes manuais e em formação em testes automatizados, de Minas Gerais, Brasil 🇧🇷
+  Sou Tatiane Oliveira, atuando com testes manuais e em formação em testes automatizados, de Minas Gerais, 🇧🇷
 </p>
 
 <p align="center">
