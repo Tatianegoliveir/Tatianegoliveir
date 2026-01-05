@@ -34,11 +34,6 @@
 
 <h2>🌎 Contato</h2>
 
-<p>
-  <a href="https://tatianegoliveira.com" target="_blank">
-    <img src="icon-portfolio.png" width="120"/>
-  </a>
-</p>
 
 <p>
   <a href="https://www.linkedin.com/in/tatianegoliveira/" target="_blank">
